@@ -111,6 +111,7 @@ textarea {
 }
 
 .tableau {
+
     background-color: #1e5518;
     color: white;
     border: 5px solid #5e3600;
@@ -121,10 +122,10 @@ textarea {
     margin: 50px auto;
     height: 400px;
     overflow: auto;
-    background-image: url(./img/bart.jpg);
+    background-image: url(./img/bart.png);
     background-size: 170px;
     background-repeat: no-repeat;
     background-position: bottom right;
-    font-family: cursive;
+    font-family: simpsonfont;
     font-size: x-large;
 }
